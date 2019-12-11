@@ -1,0 +1,1 @@
+${HOME}/pin-3.10-97971-gc5e41af74-gcc-linux/pin -t ${HOME}/pin-3.10-97971-gc5e41af74-gcc-linux/source/tools/SimpleExamples/obj-ia32/edgcnt.so  -- $1 $2 $3 $4 $5 $6 $7

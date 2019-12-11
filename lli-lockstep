@@ -1,0 +1,1 @@
+${HOME}/llvm-build/bin/lli --force-interpreter --lockstep -debug-only=interpreter $1

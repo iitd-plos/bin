@@ -1,0 +1,1 @@
+${HOME}/llvm-build/bin/lli --freq-hist freq.hist $1 $2 $3 $4 $5
